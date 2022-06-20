@@ -7,4 +7,6 @@ img/
 #Ignore Information Gathering Chapter (Sensitive Data)
 InfoGath.odt
 
+#Ignore .gitignore lol
+.gitignore
 
