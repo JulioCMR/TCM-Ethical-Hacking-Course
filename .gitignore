@@ -1,0 +1,10 @@
+#Ignore temporary files
+.~*
+
+#Ignore img directory
+img/
+
+#Ignore Information Gathering Chapter (Sensitive Data)
+InfoGath.odt
+
+
