@@ -3,5 +3,8 @@ Repository for documentation of [TCM Practical Ethical Hacking](https://academy.
 
 ## Information Gathering (Reconnaissance)
 
+## Scanning & Enumeration
+!(Scanning & enumeration)[img/'CH9_Scanning&Enumeration.png']
+
 
 
